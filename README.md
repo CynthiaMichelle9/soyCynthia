@@ -2,7 +2,7 @@
 ## Desarrolladora web Full Stack Python/Django y FrontEnd Vue.js
 
 
-##M y complete Bio
+## My complete Bio
 
 Ingeniera Agrónoma graduada con una pasión creciente por el desarrollo web y la programación. Procedo de Villa Alemana, Chile, donde he cultivado mis habilidades técnicas y mi enfoque autodidacta en el aprendizaje constante.
 
